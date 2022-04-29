@@ -8,9 +8,16 @@
   Através de nossa página Web vamos apresentar a energia fotovoltaica, descomplicar o seu funcionamento para o público em geral e fornecer o contato de empresas e profissionais mais próximos da sua localidade. Dessa forma acreditamos que vamos desmistificar o uso da energia solar apresentando as suas vantagens em relação a energia não renovável.
 
 # Índice/Sumário
+
 ## Requisitos Funcionais 
+
 ## Tecnologias Usadas
+
 ## Contribuição
+Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 ## Autores
+
 ## Licença
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
+
 ## Agradecimentos
