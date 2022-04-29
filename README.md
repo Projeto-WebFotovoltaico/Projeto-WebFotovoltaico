@@ -1,5 +1,5 @@
 # Projeto-WebFotovoltaico
-!(https://cdn.pixabay.com/photo/2017/09/12/13/21/photovoltaic-system-2742302_1280.jpg)
+![Capa](https://cdn.pixabay.com/photo/2017/09/12/13/21/photovoltaic-system-2742302_1280.jpg)
 
 #Sobre o projeto
 ###Projeto Web Fotovoltaico
@@ -8,9 +8,9 @@
   Através de nossa página Web vamos apresentar a energia fotovoltaica, descomplicar o seu funcionamento para o público em geral e fornecer o contato de empresas e profissionais mais próximos da sua localidade. Dessa forma acreditamos que vamos desmistificar o uso da energia solar apresentando as suas vantagens em relação a energia não renovável.
 
 #Índice/Sumário
-Requisitos Funcionais 
-Tecnologias Usadas
-Contribuição
-Autores
-Licença
-Agradecimentos
+##Requisitos Funcionais 
+##Tecnologias Usadas
+##Contribuição
+##Autores
+##Licença
+##Agradecimentos
