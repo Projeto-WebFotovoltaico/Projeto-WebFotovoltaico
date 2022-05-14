@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+}
+
+h3{
+    display: inline;
+
+}
+
+a{
+ text-decoration: none;
+}
+
+ul{
+    display: inline;
+    color: wheat;
+}
+
+li{
+    display: inline;
+    color: white;
+}
+#cabecalho{
+
+    background-color: yellow;
+    
+}
+
+#logomenu{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 4%;
+    width: 150px;
+    display:inline;
+}
+
+#menu{
+    border-radius: 10px;
+    height: 20px;
+    width: 400px;
+    background-color: blue;
+}
+
