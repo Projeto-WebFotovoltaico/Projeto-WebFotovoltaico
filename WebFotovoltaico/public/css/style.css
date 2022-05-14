@@ -1,14 +1,23 @@
 html,body{
     margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    background-image: url(../assents/body_background2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h3{
     display: inline;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 5%;
 
 }
 
 a{
- text-decoration: none;
+    color: black;
+    text-decoration: none;
 }
 
 ul{
@@ -18,26 +27,38 @@ ul{
 
 li{
     display: inline;
-    color: white;
+    color:black;
 }
 #cabecalho{
-
+    height: 150px;
+    width: 100%;
     background-color: yellow;
     
 }
 
 #logomenu{
     display: flex;
-    margin-top: 1%;
+    margin-top: 0,5%;
     margin-left: 4%;
     width: 150px;
     display:inline;
 }
 
 #menu{
-    border-radius: 10px;
+   margin-right: 5%;
+    margin-top: 5%;
+    float: right;
+    padding: 10px;
     height: 20px;
-    width: 400px;
-    background-color: blue;
 }
 
+
+section{
+ margin: auto;
+
+}
+#cont1{
+  
+    background-color: rgba(255, 255, 255, 0.585);
+   
+}
