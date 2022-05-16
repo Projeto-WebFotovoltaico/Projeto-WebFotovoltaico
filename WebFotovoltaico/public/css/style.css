@@ -99,6 +99,13 @@ section{
     top: 20%;
 }
 
+#cont1img:hover{
+    top: 15%;
+    left: 50%;
+   width: 50%;
+}
+
+
 button{
     margin-left: 30%;
     background-color: yellow;
@@ -136,6 +143,12 @@ button:hover{
     top: 20%;
 }
 
+#cont2img:hover{
+    top: 15%;
+    left: 50%;
+   width: 50%;
+}
+
 footer{
     position: absolute;
     top:200%;
@@ -149,6 +162,10 @@ footer{
 #titlefooter{
     margin-top: 5%;
     color:white;
+}
+
+#titlefooter:hover{
+    color: rgba(255, 255, 255, 0.37);
 }
 
 #logofooter{
@@ -172,3 +189,7 @@ footer{
 #navfootertext{
    color: white;
 }
+
+#navfootertext:hover{
+    color: rgba(255, 255, 255, 0.37);
+ }
