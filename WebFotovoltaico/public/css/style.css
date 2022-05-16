@@ -4,19 +4,19 @@ html,body{
     font-size: 20px;
     background-image: url(../assents/body_background2.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
+
 
 h3{
     display: inline;
     position: absolute;
-    margin-left: 3%;
-    margin-top: 5%;
-
+    left: 15%;
+    top:10%;
 }
 
 a{
-    color: black;
+   
     text-decoration: none;
 }
 
@@ -27,10 +27,11 @@ ul{
 
 li{
     display: inline;
-    color:black;
+    
+
 }
 #cabecalho{
-    height: 150px;
+    height: 9%;
     width: 100%;
     background-color: yellow;
     
@@ -40,25 +41,119 @@ li{
     display: flex;
     margin-top: 0,5%;
     margin-left: 4%;
-    width: 150px;
+    width: 9%;
     display:inline;
 }
 
 #menu{
-   margin-right: 5%;
-    margin-top: 5%;
-    float: right;
-    padding: 10px;
-    height: 20px;
+    position: absolute;
+    top:11.3%;
+    left: 50%;
+    padding: 1%;
+    height: 1%;
+  
+}
+
+#textmenu{
+    color: black;
 }
 
 
 section{
- margin: auto;
+    width: 80%;
+    margin: auto;
+  
 
 }
 #cont1{
-  
+    border-radius: 10px;
+    top: 30%;
+    width: 80%;
+    height: 70%;
+    position: absolute;
     background-color: rgba(255, 255, 255, 0.585);
    
+}
+
+#cont1tile{
+    margin-left: 3%;
+}
+
+#cont1text{
+    margin-left: 2%;
+    width: 40%;
+}
+
+#cont1img{
+    border-radius: 20px;
+    width: 35%;
+    position: absolute;
+    left:55%;
+    top: 20%;
+}
+
+button{
+    margin-left: 30%;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#cont2{
+    position: absolute;
+    border-radius: 10px;
+    top: 110%;
+    width: 80%;
+    height: 70%;
+    background-color: rgba(255, 255, 255, 0.585);
+}
+
+#cont2text{
+    margin-left: 2%;
+    width: 40%;
+}
+
+#cont2img{
+    border-radius: 20px;
+    width: 35%;
+    position: absolute;
+    left:55%;
+    top: 20%;
+}
+
+footer{
+    position: absolute;
+    top:200%;
+    background-color: black;
+    width: 100%;
+    height: 35%;
+    color: white;
+
+}
+
+#titlefooter{
+    margin-top: 5%;
+    color:white;
+}
+
+#logofooter{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 4%;
+    width: 9%;
+    display:inline;
+}
+
+#navfooter{
+    margin: auto;
+    width: 35%;
+}
+#textfooter{
+    margin-top: 2%;
+    font-size: 12px;
+    margin-left: 43%;
+}
+
+#navfootertext{
+   color: white;
 }
