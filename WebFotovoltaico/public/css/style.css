@@ -62,6 +62,9 @@ li{
     color: black;
 }
 
+#textmenu:hover{
+    color: rgba(0, 0, 0, 0.507);
+}
 
 section{
     width: 80%;
@@ -103,6 +106,7 @@ button{
     height: 40px;
     border-radius: 20px;
     cursor: pointer;
+    border: none;
 }
 
 button:hover{
