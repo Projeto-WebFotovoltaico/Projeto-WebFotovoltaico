@@ -14,6 +14,14 @@ h3{
     top:10%;
 }
 
+
+h3{
+    display: inline;
+    position: absolute;
+    left: 15%;
+    top:10%;
+}
+
 hr{
     margin-top: 650px;
     width: 80%;
@@ -66,91 +74,6 @@ li{
     color: rgba(0, 0, 0, 0.507);
 }
 
-section{
-    width: 80%;
-    margin: auto;
-  
-
-}
-#cont1{
-    border-radius: 10px;
-    top: 30%;
-    width: 80%;
-    height: 70%;
-    position: absolute;
-    background-color: rgba(255, 255, 255, 0.585);
-   
-}
-
-#cont1tile{
-    margin-left: 3%;
-}
-
-#cont1text{
-    margin-left: 2%;
-    width: 40%;
-}
-
-#cont1img{
-    border-radius: 20px;
-    width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
-}
-
-#cont1img:hover{
-    top: 15%;
-    left: 50%;
-   width: 50%;
-}
-
-
-button{
-    margin-left: 30%;
-    background-color: yellow;
-    width: 200px;
-    height: 40px;
-    border-radius: 20px;
-    cursor: pointer;
-    border: none;
-}
-
-button:hover{
-    
-    background-color: rgba(255, 255, 0, 0.404);
-}
-
-#cont2{
-    position: absolute;
-    border-radius: 10px;
-    top: 110%;
-    width: 80%;
-    height: 70%;
-    background-color: rgba(255, 255, 255, 0.585);
-}
-
-#cont2tile{
-    margin-left: 3%;
-}
-#cont2text{
-    margin-left: 2%;
-    width: 40%;
-}
-
-#cont2img{
-    border-radius: 20px;
-    width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
-}
-
-#cont2img:hover{
-    top: 15%;
-    left: 50%;
-   width: 50%;
-}
 
 footer{
     position: absolute;

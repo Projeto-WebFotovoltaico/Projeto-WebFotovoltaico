@@ -14,6 +14,14 @@ h3{
     top:10%;
 }
 
+
+h3{
+    display: inline;
+    position: absolute;
+    left: 15%;
+    top:10%;
+}
+
 hr{
     margin-top: 650px;
     width: 80%;
@@ -76,9 +84,9 @@ section{
     border-radius: 10px;
     top: 30%;
     width: 80%;
-    height: 70%;
+    height: 75%;
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.585);
+   background-image: url(../assents/work2.jpg);
    
 }
 
@@ -89,14 +97,20 @@ section{
 #cont1text{
     margin-left: 2%;
     width: 40%;
+    background-color: rgba(255, 255, 255, 0.767);
+    padding: 10px;
+    border-radius: 20px;
 }
 
 #cont1img{
-    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.767);
+    border-radius: 1000px;
     width: 35%;
     position: absolute;
     left:55%;
     top: 20%;
+    transform: scaleX(-1);
 }
 
 #cont1img:hover{
@@ -105,35 +119,21 @@ section{
    width: 50%;
 }
 
-
-button{
-    margin-left: 30%;
-    background-color: yellow;
-    width: 200px;
-    height: 40px;
-    border-radius: 20px;
-    cursor: pointer;
-    border: none;
-}
-
-button:hover{
-    
-    background-color: rgba(255, 255, 0, 0.404);
-}
-
 #cont2{
     position: absolute;
     border-radius: 10px;
     top: 110%;
     width: 80%;
-    height: 70%;
-    background-color: rgba(255, 255, 255, 0.585);
+    height: 75%;
+   background-color: yellow;
 }
 
-#cont2tile{
-    margin-left: 3%;
-}
+
+
 #cont2text{
+    background-color: rgba(255, 255, 255, 0.767);
+    padding: 10px;
+    border-radius: 20px;
     margin-left: 2%;
     width: 40%;
 }
@@ -151,6 +151,9 @@ button:hover{
     left: 50%;
    width: 50%;
 }
+
+
+
 
 footer{
     position: absolute;
