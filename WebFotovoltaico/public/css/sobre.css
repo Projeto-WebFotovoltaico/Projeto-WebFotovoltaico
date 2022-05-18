@@ -91,7 +91,7 @@ section{
 }
 
 #cont1tile{
-    margin-left: 3%;
+    margin-left: 4%;
 }
 
 #cont1text{
@@ -116,7 +116,7 @@ section{
 #cont1img:hover{
     top: 15%;
     left: 50%;
-   width: 50%;
+   width: 45%;
 }
 
 #cont2{
@@ -128,7 +128,9 @@ section{
    background-color: yellow;
 }
 
-
+#cont2tile{
+    margin-left: 4%;
+}
 
 #cont2text{
     background-color: rgba(255, 255, 255, 0.767);
@@ -149,7 +151,7 @@ section{
 #cont2img:hover{
     top: 15%;
     left: 50%;
-   width: 50%;
+   width: 45%;
 }
 
 
