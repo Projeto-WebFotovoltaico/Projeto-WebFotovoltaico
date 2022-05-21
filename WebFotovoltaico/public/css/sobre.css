@@ -4,23 +4,10 @@ html,body{
     font-size: 20px;
     background-repeat: no-repeat;
     background-size: contain;
+    
 }
 
 
-h3{
-    display: inline;
-    position: absolute;
-    left: 15%;
-    top:10%;
-}
-
-
-h3{
-    display: inline;
-    position: absolute;
-    left: 15%;
-    top:10%;
-}
 
 hr{
     margin-top: 650px;
@@ -45,7 +32,7 @@ li{
 #cabecalho{
     height: 9%;
     width: 100%;
-    background-color: yellow;
+    background-color: black;
     
 }
 
@@ -67,107 +54,61 @@ li{
 }
 
 #textmenu{
-    color: black;
+    display: inline;
+}
+#textmenu{
+    color: white;
 }
 
 #textmenu:hover{
-    color: rgba(0, 0, 0, 0.507);
+    color: rgba(255, 255, 255, 0.61);
 }
 
 section{
-    width: 80%;
+    width: 95%;
     margin: auto;
   
 
 }
 #cont1{
+    margin: auto;
     border-radius: 10px;
-    top: 30%;
-    width: 80%;
-    height: 75%;
-    position: absolute;
+    width: 90%;
+    height: 1200px;
    background-image: url(../assents/work2.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
    
 }
 
 #cont1tile{
-    margin-left: 4%;
+    border-radius: 15px;
+    font-size: 3rem;
+    margin-top: 5%;
+    text-align: center;
 }
 
 #cont1text{
-    margin-left: 2%;
-    width: 40%;
-    background-color: rgba(255, 255, 255, 0.767);
+    margin-left: 6%;
+    margin-top: 5%;
     padding: 10px;
-    border-radius: 20px;
-}
-
-#cont1img{
-    padding: 10px;
-    background-color: rgba(255, 255, 255, 0.767);
-    border-radius: 1000px;
-    width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
-    transform: scaleX(-1);
-}
-
-#cont1img:hover{
-    top: 15%;
-    left: 50%;
-   width: 45%;
-}
-
-#cont2{
-    position: absolute;
-    border-radius: 10px;
-    top: 110%;
     width: 80%;
-    height: 75%;
-   background-color: yellow;
-}
-
-#cont2tile{
-    margin-left: 4%;
-}
-
-#cont2text{
     background-color: rgba(255, 255, 255, 0.767);
-    padding: 10px;
     border-radius: 20px;
-    margin-left: 2%;
-    width: 40%;
 }
-
-#cont2img{
-    border-radius: 20px;
-    width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
-}
-
-#cont2img:hover{
-    top: 15%;
-    left: 50%;
-   width: 45%;
-}
-
-
-
 
 footer{
     position: absolute;
     top:200%;
     background-color: black;
     width: 100%;
-    height: 35%;
+    height: 300px;
     color: white;
 
 }
 
 #titlefooter{
+    display: inline;
     margin-top: 5%;
     color:white;
 }

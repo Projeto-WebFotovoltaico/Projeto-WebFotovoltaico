@@ -45,7 +45,7 @@ li{
 #cabecalho{
     height: 9%;
     width: 100%;
-    background-color: yellow;
+    background-color: black;
     
 }
 
@@ -67,11 +67,11 @@ li{
 }
 
 #textmenu{
-    color: black;
+    color: white;
 }
 
 #textmenu:hover{
-    color: rgba(0, 0, 0, 0.507);
+    color: rgba(255, 255, 255, 0.61);
 }
 
 

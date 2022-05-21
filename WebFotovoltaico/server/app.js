@@ -21,4 +21,4 @@ app.get("/sobre", function(req, res) {
     res.sendFile(resolve('./main/sobre.html'));
 });
 
-http.createServer(app).listen(3000, () => console.log("Servidor rodando local na porta 3000"));
+http.createServer(app).listen(3001, () => console.log("Servidor rodando local na porta 3001"));

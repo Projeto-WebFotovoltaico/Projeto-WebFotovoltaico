@@ -15,7 +15,7 @@ h3{
 }
 
 hr{
-    margin-top: 650px;
+    margin-top: 640px;
     width: 80%;
     color: black;
 }
@@ -37,7 +37,7 @@ li{
 #cabecalho{
     height: 9%;
     width: 100%;
-    background-color: yellow;
+    background-color: black;
     
 }
 
@@ -59,13 +59,12 @@ li{
 }
 
 #textmenu{
-    color: black;
+    color: white;
 }
 
 #textmenu:hover{
-    color: rgba(0, 0, 0, 0.507);
+    color: rgba(255, 255, 255, 0.61);
 }
-
 section{
     width: 80%;
     margin: auto;
@@ -102,7 +101,7 @@ section{
 #cont1img:hover{
     top: 15%;
     left: 50%;
-   width: 50%;
+   width: 45%;
 }
 
 
@@ -124,7 +123,7 @@ button:hover{
 #cont2{
     position: absolute;
     border-radius: 10px;
-    top: 110%;
+    top: 113%;
     width: 80%;
     height: 70%;
     background-color: rgba(255, 255, 255, 0.585);
