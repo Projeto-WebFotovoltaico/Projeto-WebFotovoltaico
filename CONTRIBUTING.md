@@ -1,4 +1,4 @@
-# Código de Conduta do Convênio do Contribuinte
+# Código de Conduta
 
 ## Nossa Missão
 
@@ -6,11 +6,11 @@ Nós, como membros, colaboradores e líderes, nos comprometemos a fazer a partic
 comunidade uma experiência livre de assédio para todos, independentemente da idade, corpo
 tamanho, deficiência visível ou invisível, etnia, características sexuais, gênero
 identidade e expressão, nível de experiência, educação, status socioeconômico,
-nacionalidade, aparência pessoal, raça, casta, cor, religião ou
-identidade e orientação.
+nacionalidade, aparência pessoal, religião ou
+identidade e orientação sexuais.
 
 Comprometemo-nos a agir e interagir de forma a contribuir para um ambiente aberto, acolhedor,
-comunidade diversificada, inclusiva e saudável.
+para uma comunidade diversificada, inclusiva e saudável.
 
 ## Nossos padrões
 
@@ -19,34 +19,31 @@ comunidade incluem:
 
 * Demonstrar empatia e bondade para com outras pessoas
 * Ser respeitoso com as diferentes opiniões, pontos de vista e experiências
-* Dar e aceitar graciosamente feedback construtivo
-* Aceitar a responsabilidade e pedir desculpas aos afetados por nossos erros,
-  e aprendendo com a experiência
+* Dar e aceitar respeitosamente feedbacks construtivo
+* Assumir a responsabilidade e pedir desculpas aos afetados por nossos erros,
+  aprendendo com a experiência
 * Concentrar-se no que é melhor não apenas para nós como indivíduos, mas para o geral
   comunidade
 
 Exemplos de comportamento inaceitável incluem:
 
-* O uso de linguagem ou imagens sexualizadas e atenção sexual ou avanços de
-  qualquer tipo
+* Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
 * Trolling, comentários insultuosos ou depreciativos e ataques pessoais ou políticos
 * Assédio público ou privado
 * Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail,
   sem sua permissão explícita
-* Outras condutas que possam ser razoavelmente consideradas inadequadas em um
-  ambiente profissional
+* Outras condutas que são normalmente consideradas inapropriadas para um ambiente profissional
 
 ## Responsabilidades
 
 Os líderes comunitários são responsáveis por esclarecer e fazer cumprir nossos padrões de
-comportamento aceitável e tomará as medidas corretivas apropriadas e justas
-resposta a qualquer comportamento que considerem inadequado, ameaçador, ofensivo,
+comportamento aceitáveis e tomarão as medidas corretivas apropriadas e justas a qualquer comportamento que considerem inadequado, ameaçador, ofensivo,
 ou prejudicial.
 
 Os líderes da comunidade têm o direito e a responsabilidade de remover, editar ou rejeitar
-comentários, commits, código, edições wiki, questões e outras contribuições que são
-não alinhado a este Código de Conduta, e comunicará os motivos da moderação
-decisões quando apropriado.
+comentários, commits, código, edições wiki, e outras contribuições que
+não estão alinhadas a este Código de Conduta, e comunicará os motivos da moderação
+quando apropriado.
 
 ## Escopo
 
@@ -59,8 +56,7 @@ representante em um evento online ou offline.
 ## Aplicação
 
 Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser
-reportado aos líderes comunitários responsáveis pela fiscalização
-[INSERIR MÉTODO DE CONTATO].
+reportado aos líderes comunitários.
 Todas as reclamações serão analisadas e investigadas prontamente e de forma justa.
 
 Todos os líderes comunitários são obrigados a respeitar a privacidade e a segurança do
@@ -85,12 +81,7 @@ comportamento era inadequado. Um pedido de desculpas público pode ser solicitad
 **Impacto na comunidade**: uma violação por meio de um único incidente ou série de
 ações.
 
-**Consequência**: um aviso com consequências para o comportamento continuado. Não
-interação com as pessoas envolvidas, incluindo interação não solicitada com
-aqueles que aplicam o Código de Conduta, por um período de tempo especificado. Esse
-inclui evitar interações em espaços comunitários, bem como canais externos
-como as redes sociais. A violação destes termos pode levar a uma suspensão temporária ou permanente
-banimento.
+**Consequência**: Advertência com consequências para comportamento repetitivo. Não haverá interações com as pessoas envolvidas, incluindo interações com os responsáveis pela aplicação do Código de Conduta, por um período determinado. Isto inclui evitar interações em espaços da comunidade, bem como canais externos como as mídias sociais. A violação destes termos pode levar a um banimento temporário ou permanente.
 
 ### 3. Banimento Temporário
 
@@ -99,8 +90,7 @@ comportamento inadequado sustentado.
 
 **Consequência**: banimento temporário de qualquer tipo de interação ou público
 comunicação com a comunidade por um determinado período de tempo. Nenhum público ou
-interação privada com as pessoas envolvidas, incluindo interação não solicitada
-com aqueles que aplicam o Código de Conduta, é permitido durante este período.
+interação privada com as pessoas envolvidas, incluindo interação com aqueles que aplicam o Código de Conduta.
 A violação destes termos pode levar a um banimento permanente.
 
 ### 4. Banimento Permanente
