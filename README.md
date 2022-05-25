@@ -19,7 +19,7 @@
 * Java Script
 
 ## Contribuição
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações (Pull Request) para nós.
 
 ## Autores
 
