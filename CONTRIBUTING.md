@@ -113,7 +113,7 @@ As Diretrizes de Impacto na Comunidade foram inspiradas por
 
 Para obter respostas a perguntas comuns sobre este código de conduta, consulte as Perguntas frequentes em
 [https://www.contributor-covenant.org/faq][FAQ]. As traduções estão disponíveis em
-[https://www.contributor-covenant.org/translations][translations].
+https://www.contributor-covenant.org/translations.
 
 [página inicial]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
