@@ -104,7 +104,7 @@ comunidade.
 
 ## Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
+Este Código de Conduta é adaptado do Contributor Covenant
 versão 2.1, disponível em
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
