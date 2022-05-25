@@ -23,17 +23,17 @@ Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de cond
 
 ## Autores
 
-* Guilherme de Melo Dutra - RA: 321120263​
-* Gustavo Henrique S F Rolo - RA: 32111822​
-* Juan Martins Santos - RA: 32114567
-* Maria da Conceição Aparecida de Oliveira - RA: 120118830​
-* Osmar Henrique dos Santos Silva - RA: 321124907
-* Paulo Vinícius Oliveira de Almeida - RA: 321123422​
-* Samuel Lima Sales – RA: 32119869​
+* Guilherme de Melo Dutra 
+* Gustavo Henrique S F Rolo 
+* Juan Martins Santos 
+* Maria da Conceição Aparecida de Oliveira 
+* Osmar Henrique dos Santos Silva 
+* Paulo Vinícius Oliveira de Almeida 
+* Samuel Lima Sales 
 
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE.md)  para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE)  para mais detalhes.
 
 ## Agradecimentos
 
