@@ -9,17 +9,6 @@ html,body{
 
 h3{
     display: inline;
-    position: absolute;
-    left: 15%;
-    top:10%;
-}
-
-
-h3{
-    display: inline;
-    position: absolute;
-    left: 15%;
-    top:10%;
 }
 
 hr{
@@ -45,9 +34,11 @@ p{
     margin-bottom: 3%;
 }
 #cabecalho{
-    height: 9%;
-    width: 100%;
+    padding: 15px;
+    width: 98%;
+    height: 19%;
     background-color: black;
+    margin-bottom: 5%;
     
 }
 
@@ -60,12 +51,10 @@ p{
 }
 
 #menu{
-    position: absolute;
-    top:11.3%;
-    left: 50%;
     padding: 1%;
     height: 1%;
-  
+    display: inline;
+   margin-left: 25%;
 }
 
 #textmenu{
@@ -87,7 +76,6 @@ p{
     width: 60%;
     margin-bottom: 5%;
     text-align: center;
- 
     font-size: 40px;
     margin-top: 6%;
     font-family: Arial, Helvetica, sans-serif;

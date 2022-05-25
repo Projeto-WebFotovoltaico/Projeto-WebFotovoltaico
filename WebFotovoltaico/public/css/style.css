@@ -9,13 +9,11 @@ html,body{
 
 h3{
     display: inline;
-    position: absolute;
-    left: 15%;
-    top:10%;
 }
 
 hr{
-    margin-top: 640px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     width: 80%;
     color: black;
 }
@@ -35,9 +33,11 @@ li{
 
 }
 #cabecalho{
-    height: 9%;
-    width: 100%;
+    padding: 15px;
+    width: 98%;
+    height: 19%;
     background-color: black;
+    margin-bottom: 5%;
     
 }
 
@@ -50,12 +50,10 @@ li{
 }
 
 #menu{
-    position: absolute;
-    top:11.3%;
-    left: 50%;
     padding: 1%;
     height: 1%;
-  
+    display: inline;
+   margin-left: 25%;
 }
 
 #textmenu{
@@ -66,19 +64,16 @@ li{
     color: rgba(255, 255, 255, 0.61);
 }
 section{
-    width: 80%;
-    margin: auto;
-  
 
+    margin: auto;
+    width: 80%;
+  
 }
 #cont1{
+    margin: auto;
     border-radius: 10px;
-    top: 30%;
-    width: 80%;
-    height: 70%;
-    position: absolute;
+    width: 99%;
     background-color: rgba(255, 255, 255, 0.585);
-   
 }
 
 #cont1tile{
@@ -88,24 +83,23 @@ section{
 #cont1text{
     margin-left: 2%;
     width: 40%;
+    display: inline-block;
 }
 
 #cont1img{
     border-radius: 20px;
     width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
+    float:right;
+    margin-right: 100px;
 }
 
 #cont1img:hover{
-    top: 15%;
-    left: 50%;
-   width: 45%;
+   width: 40%;
 }
 
 
 button{
+    margin-top: 3%;
     margin-left: 30%;
     background-color: yellow;
     width: 200px;
@@ -121,12 +115,10 @@ button:hover{
 }
 
 #cont2{
-    position: absolute;
+    margin: auto;
     border-radius: 10px;
-    top: 113%;
-    width: 80%;
-    height: 70%;
-    background-color: rgba(255, 255, 255, 0.585);
+    width: 99%;
+    background-color: rgba(255, 255, 255, 0.585); 
 }
 
 #cont2tile{
@@ -135,30 +127,26 @@ button:hover{
 #cont2text{
     margin-left: 2%;
     width: 40%;
+    display: inline-block;
 }
 
 #cont2img{
     border-radius: 20px;
     width: 35%;
-    position: absolute;
-    left:55%;
-    top: 20%;
+    float:right;
+    margin-right: 100px;
 }
 
 #cont2img:hover{
-    top: 15%;
-    left: 50%;
-   width: 50%;
+    width: 40%;
 }
 
 footer{
-    position: absolute;
-    top:200%;
+    margin-top: 5%;
     background-color: black;
     width: 100%;
-    height: 35%;
+    height: 300px;
     color: white;
-
 }
 
 #titlefooter{
