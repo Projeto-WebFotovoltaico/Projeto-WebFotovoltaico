@@ -9,15 +9,41 @@
 
 # Índice/Sumário
 
+* [Requisitos Funcionais](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#requisitos-funcionais)
+* [Tecnologias Usadas](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#tecnologias-usadas)
+* [Contribuição](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/CONTRIBUTING.md)
+* [Autores](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#autores)
+* [Licença](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE) 
+* [Agradecimentos](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#agradecimentos)
+
 ## Requisitos Funcionais 
+
+
 
 ## Tecnologias Usadas
 
+* Node.js
+* HTML
+* CSS
+* Java Script
+
 ## Contribuição
-Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações (Pull Request) para nós.
+
 ## Autores
 
+* Guilherme de Melo Dutra 
+* Gustavo Henrique Santos Faria Rolo
+* Juan Martins Santos 
+* Maria da Conceição Aparecida de Oliveira 
+* Osmar Henrique dos Santos Silva 
+* Paulo Vinícius Oliveira de Almeida 
+* Samuel Lima Sales 
+
+
 ## Licença
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo LICENSE.md para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE)  para mais detalhes.
 
 ## Agradecimentos
+
+Todos os agradecimentos e parabenizações a equipe. Sem a participação e e o empenho de cada um dos membros, nosso resultado jamais seria alcançado. Seja programando, elaborando ideias, coordernando, organizando, pesquisando, cada tarefa foi essencial para que atingíssimos este objetivo. Congratulações, ao sucesso deste projeto.
