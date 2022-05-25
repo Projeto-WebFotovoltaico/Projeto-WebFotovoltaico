@@ -1,6 +1,6 @@
 # Código de Conduta do Convênio do Contribuinte
 
-## Nosso Compromisso
+## Nossa Missão
 
 Nós, como membros, colaboradores e líderes, nos comprometemos a fazer a participação em nosso
 comunidade uma experiência livre de assédio para todos, independentemente da idade, corpo
@@ -36,7 +36,7 @@ Exemplos de comportamento inaceitável incluem:
 * Outras condutas que possam ser razoavelmente consideradas inadequadas em um
   ambiente profissional
 
-## Responsabilidades de Execução
+## Responsabilidades
 
 Os líderes comunitários são responsáveis por esclarecer e fazer cumprir nossos padrões de
 comportamento aceitável e tomará as medidas corretivas apropriadas e justas
@@ -48,7 +48,7 @@ comentários, commits, código, edições wiki, questões e outras contribuiçõ
 não alinhado a este Código de Conduta, e comunicará os motivos da moderação
 decisões quando apropriado.
 
-## Alcance
+## Escopo
 
 Este Código de Conduta aplica-se a todos os espaços comunitários e também quando
 um indivíduo está representando oficialmente a comunidade em espaços públicos.
@@ -80,7 +80,7 @@ pouco profissional ou indesejável na comunidade.
 clareza sobre a natureza da violação e uma explicação de por que o
 comportamento era inadequado. Um pedido de desculpas público pode ser solicitado.
 
-### 2. Aviso
+### 2. Advertência
 
 **Impacto na comunidade**: uma violação por meio de um único incidente ou série de
 ações.
