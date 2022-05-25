@@ -9,7 +9,16 @@
 
 # Índice/Sumário
 
+* [Requisitos Funcionais](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#requisitos-funcionais)
+* [Tecnologias Usadas](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#tecnologias-usadas)
+* [Contribuição](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/CONTRIBUTING.md)
+* [Autores](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#autores)
+* [Licença](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE) 
+* [Agradecimentos](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#agradecimentos)
+
 ## Requisitos Funcionais 
+
+
 
 ## Tecnologias Usadas
 
@@ -24,7 +33,7 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Proj
 ## Autores
 
 * Guilherme de Melo Dutra 
-* Gustavo Henrique S F Rolo 
+* Gustavo Henrique Santos Faria Rolo
 * Juan Martins Santos 
 * Maria da Conceição Aparecida de Oliveira 
 * Osmar Henrique dos Santos Silva 
