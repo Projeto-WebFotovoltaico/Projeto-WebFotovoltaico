@@ -17,10 +17,10 @@
 * [Agradecimentos](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#agradecimentos)
 
 ## Requisitos Funcionais 
-!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) Vizualizar pagina Consumo
-!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) Visualizar página Fornecedores
-!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) Visualizar página Sobre
-!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) Acessar outras páginas a partir de botões
+!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) [Vizualizar pagina Consumo]
+!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) [Visualizar página Fornecedores]
+!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) [Visualizar página Sobre]
+!(https://github.githubassets.com/images/icons/emoji/unicode/2705.png?v8) [Acessar outras páginas a partir de botões]
 Pesquisar por fornecedores
 Calcular consumo na página Consumo 
 
