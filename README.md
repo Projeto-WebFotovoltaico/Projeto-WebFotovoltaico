@@ -13,7 +13,7 @@
 * [Tecnologias Usadas](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#tecnologias-usadas)
 * [Contribuição](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/CONTRIBUTING.md)
 * [Autores](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#autores)
-* [Licença](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE) 
+* [Licença](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE.md) 
 * [Agradecimentos](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/#agradecimentos)
 
 ## Requisitos Funcionais 
