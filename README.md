@@ -49,7 +49,7 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Proj
 
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE)  para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/Projeto-WebFotovoltaico/Projeto-WebFotovoltaico/blob/main/LICENSE.md)  para mais detalhes.
 
 ## Agradecimentos
 
