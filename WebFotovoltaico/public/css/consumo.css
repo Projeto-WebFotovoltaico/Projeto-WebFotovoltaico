@@ -84,6 +84,26 @@ p{
 #cont-intro{
     font-size: 1.5rem;
 }
+
+#calcular{
+    margin: auto;
+    width: 80%;
+    
+}
+
+input{
+    display: inline-block;
+    padding: 12px;
+    border-radius: 20px;
+    width: 25%;
+}
+
+#calc_text{
+    display: inline-block;
+ 
+    width: 50%;
+    font-size: 17px;
+}
 footer{
     position: relative;
     margin-top: 8%;
