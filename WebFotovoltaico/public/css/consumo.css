@@ -34,7 +34,7 @@ p{
     margin-bottom: 3%;
 }
 #cabecalho{
-    padding: 15px;
+    padding: 13px;
     width: 98%;
     height: 19%;
     background-color: black;
@@ -100,7 +100,7 @@ input{
 
 #calc_text{
     display: inline-block;
- 
+
     width: 50%;
     font-size: 17px;
 }
@@ -143,6 +143,7 @@ footer{
 }
 
 #navfootertext{
+    font-size: 18px;
    color: white;
 }
 

@@ -30,7 +30,7 @@ li{
 
 }
 #cabecalho{
-    padding: 15px;
+    padding: 13px;
     width: 98%;
     height: 19%;
     background-color: black;
@@ -104,6 +104,7 @@ footer{
 }
 
 #navfootertext{
+    font-size: 18px;
    color: white;
 }
 
