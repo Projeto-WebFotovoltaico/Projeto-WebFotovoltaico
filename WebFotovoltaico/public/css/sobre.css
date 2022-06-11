@@ -1,65 +1,64 @@
 html,body{
+    padding: 0%;
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    
+    font-size: 30px;
 }
 
 hr{
     margin-top: 5%;
+    margin-bottom: 5%;
+    width: 80%;
     color: black;
-    width: 70%;
 }
 a{
    
     text-decoration: none;
 }
 
-ul{
-    display: inline;
-    color: wheat;
-}
-
-li{
-    display: inline;
-    
-
-}
-#cabecalho{
+.cabecalho{
     padding: 13px;
-    width: 98%;
     height: 19%;
     background-color: black;
     margin-bottom: 5%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2%;
     
 }
 
-#logomenu{
-    display: flex;
+.logo_menu{
     margin-top: 0,5%;
     margin-left: 4%;
     width: 9%;
     display:inline;
 }
 
-#menu{
-    padding: 1%;
-    height: 1%;
-    display: inline;
-   margin-left: 25%;
-  
+.menu{
+    margin: 0;
+    margin-right: 1%;
+    padding: 0;
+    text-align: right;
 }
 
-#textmenu{
-    display: inline;
-}
-#textmenu{
+.titulo_menu{
+
     color: white;
+    display: inline;
 }
 
-#textmenu:hover{
+.text_menu{
+    font-size: 90%;
+    color: white;
+    display: inline;
+}
+
+.nav_menu{
+    margin: 0;
+    padding: 0;
+}
+
+.text_menu:hover{
     color: rgba(255, 255, 255, 0.61);
 }
 
@@ -69,73 +68,131 @@ section{
     width: 80%;
 
 }
-#cont1{
+.cont1{
     margin: auto;
-    border-radius: 10px;
-    width: 90%;
-   background-repeat: no-repeat;
-   background-size: cover;
-   
 }
 
-#cont1tile{
-    background-color: rgba(255, 255, 255, 0.767);
-    border-radius: 15px;
-    font-size: 3rem;
-    margin-top: 5%;
+.cont1_tile{
+    font-size: 200%;
+    padding: 3%;
     text-align: center;
 }
 
-#cont1text{
-    margin-left: 6%;
-    margin-top: 5%;
+.cont1_text{
+    padding-left: 5%;
     width: 80%;
-    background-color: rgba(255, 255, 255, 0.767);
-    border-radius: 20px;
 }
 
 footer{
     margin-top: 5%;
     background-color: black;
-    width: 100%;
-    height: 300px;
     color: white;
-
 }
 
-#titlefooter{
-    display: inline;
-    margin-top: 5%;
-    color:white;
-}
-
-#titlefooter:hover{
-    color: rgba(255, 255, 255, 0.37);
-}
-
-#logofooter{
-    display: flex;
+.logo_footer{
     margin-top: 2%;
     margin-left: 4%;
     width: 9%;
     display:inline;
 }
 
-#navfooter{
-    margin: auto;
-    width: 35%;
-}
-#textfooter{
-    margin-top: 2%;
-    font-size: 12px;
-    margin-left: 43%;
+.title_footer{
+    font-size: 90%;
+    display: inline;
+    margin-top: 5%;
+    color:white;
 }
 
-#navfootertext{
+.nav_footer{
+    text-align: center;
+  
+}
+
+.nav_footer_text{
+    display: inline;
+   font-size: 75%;
    color: white;
-   font-size: 18px;
 }
 
-#navfootertext:hover{
+.copyright{
+    color: white;
+    font-size: 45%;
+    text-align: center;
+    padding: 0;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.title_footer:hover{
+    color: rgba(255, 255, 255, 0.37);
+}
+
+.nav_footer_text:hover{
     color: rgba(255, 255, 255, 0.37);
  }
+
+
+
+ @media only screen and (max-width: 2000px) {
+   
+    html,body{
+        font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 1060px) {
+   
+    html,body{
+        font-size: 16px;
+    }
+
+    
+  }
+
+  @media only screen and (max-width: 875px) {
+   
+  
+    button{
+        font-size: 100%;
+        width: 50%;
+        height: 40px;
+        color: black;
+      
+    }
+
+    
+  }
+
+  @media only screen and (max-width: 660px) {
+   
+    .logo_menu{
+        padding-top: 2%;
+       display: block;
+       margin: auto;
+    }
+
+    .menu{
+        padding: 1%;
+        display: block;
+        text-align: center;
+    }
+    
+    .titulo_menu{
+        display: block;
+        text-align: center;
+    }
+
+    .logo_footer{
+        padding-top: 2%;
+        display: block;
+        margin: auto;
+    }
+    
+    .title_footer{
+        display: block;
+       text-align: center;
+    }
+    
+  }
+
+ 
