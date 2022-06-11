@@ -21,7 +21,7 @@
 * Visualizar página Fornecedores
 * Visualizar página Sobre
 * Acessar outras páginas a partir de botões
-* Pesquisar por fornecedores
+* Visualizar fornecedores
 * Calcular consumo na página Consumo 
 
 
