@@ -106,17 +106,19 @@ input{
 }
 
 .button{
-    background-color: yellow;
+    background-color:rgb(255, 255, 0);
     font-size: 70%;
     width: 20%;
+    padding: 1%;
     border-radius: 20px;
     cursor: pointer;
     border: none;
+    font-weight: bold;
 
 }
 
 .button:hover{
-    background-color: rgba(255, 255, 0, 0.404);
+    background-color:rgb(240, 240, 0);
 
 }
 

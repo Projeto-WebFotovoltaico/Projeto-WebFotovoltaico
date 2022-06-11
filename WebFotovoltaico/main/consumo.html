@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/consumo.css">
     <link rel="shortcut icon" href="assents/logo.png" type="image/x-icon">
     <title>Web-Fotovoltaico</title>
+    <script src="script/script.js"></script>
 </head>
 <body>
     
@@ -35,31 +36,31 @@
     <section>
         <div class="cont1">
 
-            <h1 class = 'cont_titulo'>Conheça os Principais Benefícios!</h1>
+                        <h1 class = 'cont_titulo'>Conheça os Principais Benefícios!</h1>
 
-<p class="cont_intro">- Usar a energia solar trás diversas vantagens para o consumidor, abaixo listamos as principais delas:</p>
+            <p class="cont_intro">- Usar a energia solar trás diversas vantagens para o consumidor, abaixo listamos as principais delas:</p>
 
-<h2>1- Economia</h2>
-<p>A maior vantagem da tecnologia é a economia obtida na conta de luz após a instalação de um micro ou minigerador. Um sistema solar fotovoltaico pode alimentar totalmente a energia consumida o com isso trazer uma redução de custos superior a 90%. </p>
-    <hr>
-<h2>2- Retorno financeiro</h2>
-<p>A aquisição de um sistema solar retorna para o consumidor o seu investimento, em forma da grande economia obtida na conta. Para que o retorno total do investimento seja atingido leva em torno de 3 a 5 anos, variando de acordo com a região.</p>
-<hr>
-<h2>3- Vida útil</h2>
-<p>Os equipamentos do sistema fotovoltaico possuem uma vida útil de pelo menos, 25 anos para os módulos e de 15 ou mais para os inversores, prazo onde o retorno financeiro já foi atingido.</p>
-<hr>
-<h2>4- Pouca Manutenção</h3>
-<p>Este sistema demanda de pouca manutenção, sendo a limpeza dos módulos o ponto principal, porém apenas em ambientes mais secos e com acúmulo de gradativo de poeira. A manutenção elétrica é o segundo ponto crítico, porém feita apenas uma ou duas vezes por ano. Outro detalhe é a troca das baterias, sendo realizadas em média a cada 4 anos.</p>
-<hr>
-<h2>5- Resistência</h3>
-<p>As placas solares que ficam expostas a luz solar são fabricadas visando atingir a alta resistência as condições climáticas. Também contam com medidas de segurança para evitar demais danos ao restante do sistema.</p>
-<hr>
-<h2>6- Descontos </h3>
-<p>Em alguns municípios há leis que recompensam aqueles que produzem sua própria energia limpa. Dentre estes benefícios esta o IPTU Verde, que concede descontos no IPTU de até 20%.</p>
-<hr>
-<h2>7 – Produção silenciosa</h2>
+            <h2>1- Economia</h2>
+            <p>A maior vantagem da tecnologia é a economia obtida na conta de luz após a instalação de um micro ou minigerador. Um sistema solar fotovoltaico pode alimentar totalmente a energia consumida o com isso trazer uma redução de custos superior a 90%. </p>
+                <hr>
+            <h2>2- Retorno financeiro</h2>
+            <p>A aquisição de um sistema solar retorna para o consumidor o seu investimento, em forma da grande economia obtida na conta. Para que o retorno total do investimento seja atingido leva em torno de 3 a 5 anos, variando de acordo com a região.</p>
+            <hr>
+            <h2>3- Vida útil</h2>
+            <p>Os equipamentos do sistema fotovoltaico possuem uma vida útil de pelo menos, 25 anos para os módulos e de 15 ou mais para os inversores, prazo onde o retorno financeiro já foi atingido.</p>
+            <hr>
+            <h2>4- Pouca Manutenção</h3>
+            <p>Este sistema demanda de pouca manutenção, sendo a limpeza dos módulos o ponto principal, porém apenas em ambientes mais secos e com acúmulo de gradativo de poeira. A manutenção elétrica é o segundo ponto crítico, porém feita apenas uma ou duas vezes por ano. Outro detalhe é a troca das baterias, sendo realizadas em média a cada 4 anos.</p>
+            <hr>
+            <h2>5- Resistência</h3>
+            <p>As placas solares que ficam expostas a luz solar são fabricadas visando atingir a alta resistência as condições climáticas. Também contam com medidas de segurança para evitar demais danos ao restante do sistema.</p>
+            <hr>
+            <h2>6- Descontos </h3>
+            <p>Em alguns municípios há leis que recompensam aqueles que produzem sua própria energia limpa. Dentre estes benefícios esta o IPTU Verde, que concede descontos no IPTU de até 20%.</p>
+            <hr>
+            <h2>7 – Produção silenciosa</h2>
 
-<p>A produção pelas células fotovoltaicas é totalmente silenciosa evitando qualquer incomodo aos residentes. </p>
+            <p>A produção pelas células fotovoltaicas é totalmente silenciosa evitando qualquer incomodo aos residentes. </p>
 
         </div>
         <hr>
@@ -77,12 +78,11 @@
             </div>
 
             <div class="calculo">
-                <script src="script/script.js"></script>
-                <strong><h3>Informe o seu Consumo</h3></strong>
 
-                 <input type="text" placeholder="Digite o seu Consumo" id="consumo">
-                <input class="button" type="button" value="Calcular" onclick="calcular()">
-              
+                <strong><h3>Informe o seu Consumo Médio Mensal</h3></strong>
+
+                 <input type="number" placeholder="Digite o seu Consumo" id="consumo" name="consumo">
+             <strong>  <button  class = 'button'  onclick="calcular()">Calcular</button></strong>  
 
                 <div id="resultado">
                     

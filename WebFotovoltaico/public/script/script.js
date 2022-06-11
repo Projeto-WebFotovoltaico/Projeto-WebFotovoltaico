@@ -2,17 +2,20 @@
 function calcular(){
 
     console.log("Iniciando...")
-        let consumo = parseInt(document.getElementById("consumo")); 
-        let resultado = document.getElementById("resultado");
-        valor_consumo = consumo.value;
+        let consumo = document.getElementById("consumo");
+        let resposta;
+        console.log(consumo);
+        let valor_consumo = parseInt(consumo.value);
+
+        console.log(valor_consumo)
         
-        if(valor_consumo != String){
-            resultado = valor_consumo/12
-            resultado.innerHTML = `<p> É um ${resultado}</p>`;
-        }else{
-            resultado.innerHTML = "<p>Atenção!\nDe entrada somente de números</p>";
+            if(valor_consumo > 0){
+                console.log('Calculando');
+                resposta = valor_consumo /30
+                resultado.innerHTML = `<p> A sua média de geração diaria deve ser entorno de ${resposta.toFixed(2)} KWH</p>`;
+            }else{
+                
+            }
            
-        }
-    
     }
     
