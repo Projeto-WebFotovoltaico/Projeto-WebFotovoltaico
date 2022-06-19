@@ -39,13 +39,13 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Proj
 
 ## Autores
 
-* Guilherme de Melo Dutra 
-* Gustavo Henrique Santos Faria Rolo
-* Juan Martins Santos 
-* Maria da Conceição Aparecida de Oliveira 
-* Osmar Henrique dos Santos Silva 
-* Paulo Vinícius Oliveira de Almeida 
-* Samuel Lima Sales 
+* Guilherme de Melo Dutra - gerenciamento do projeto, ideias, revisão, testes de usuário, infraestrutura.
+* Gustavo Henrique Santos Faria Rolo - códificação, ideias, manutenção, design, documentação.
+* Juan Martins Santos - documentação, pesquisa, dados.
+* Maria da Conceição Aparecida de Oliveira - documentação, pesquisa, manutenção.
+* Osmar Henrique dos Santos Silva - dados, códificação, ideias, design.
+* Paulo Vinícius Oliveira de Almeida - documentação, pesquisa, ideias, testes de usuário.
+* Samuel Lima Sales - dados, pesquisa, manutenção.
 
 
 ## Licença
