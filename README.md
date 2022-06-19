@@ -41,17 +41,17 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Projeto-WebFotovoltaico/Proj
 
 * Guilherme de Melo Dutra  
  **gerenciamento do projeto, ideias, revisão, testes de usuário, infraestrutura.**
-* Gustavo Henrique Santos Faria Rolo 
+* Gustavo Henrique Santos Faria Rolo  
  **códificação, ideias, manutenção, design, documentação.**
-* Juan Martins Santos 
+* Juan Martins Santos  
  **documentação, pesquisa, dados.**
-* Maria da Conceição Aparecida de Oliveira 
+* Maria da Conceição Aparecida de Oliveira  
  **documentação, pesquisa, manutenção.**
-* Osmar Henrique dos Santos Silva 
+* Osmar Henrique dos Santos Silva  
  **dados, códificação, ideias, design.**
-* Paulo Vinícius Oliveira de Almeida 
+* Paulo Vinícius Oliveira de Almeida  
  **documentação, pesquisa, ideias, testes de usuário.**
-* Samuel Lima Sales 
+* Samuel Lima Sales  
  **dados, pesquisa, manutenção.**
 
 
